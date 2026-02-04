@@ -18,6 +18,8 @@
 
     * [Google 应用商店代下载](#google-应用商店代下载)
 
+    * [安装 Google 服务](#安装-google-服务)
+
     * [Android 笔记及面试题](#android-笔记及面试题)
 
     * [Android 社区网站](#android-社区网站)
@@ -25,6 +27,8 @@
     * [Android 优秀个人技术博客](#android-优秀个人技术博客)
 
 * [非 Android 相关](#非-android-相关)
+
+    * [应用下载托管](#应用下载托管)
 
     * [Github 相关](#github-相关)
 
@@ -114,6 +118,12 @@
 
     * [Java JDK 和 Gradle 兼容对应表](https://docs.gradle.org/current/userguide/compatibility.html)
 
+* 手机型号对照表
+
+* [Google Play 支持的设备（需要翻墙）](https://support.google.com/googleplay/answer/1727131?hl=zh-Hans)
+
+* [Google Play 支持的设备 - 支持的 Android 设备列表（需要翻墙）](https://storage.googleapis.com/play_public/supported_devices.html)
+
 #### Android 云测平台
 
 * 厂商
@@ -155,6 +165,18 @@
 * [APKCombo（需要翻墙）](https://apkcombo.com/zh/downloader/)
 
 * [APKMirror（需要翻墙）](https://www.apkmirror.com/)
+
+#### 安装 Google 服务
+
+* Google 三件套下载（根据手机参数下载）
+
+    * [APKMirror - Google Services Framework 下载地址（Google 服务框架）](https://www.apkmirror.com/apk/google-inc/google-services-framework/)
+
+    * [APKMirror - Google Play Services 下载地址（Google Play 服务）](https://www.apkmirror.com/apk/google-inc/google-play-services/)
+
+    * [APKMirror - Google Play Store 下载地址（Google Play 商店）](https://www.apkmirror.com/apk/google-inc/google-play-store/)
+
+* [Google 服务安装教程](https://github.com/sky22333/Google-Play-Store)
 
 #### Android 笔记及面试题
 
@@ -290,6 +312,12 @@
 
 ## 非 Android 相关
 
+#### 应用下载托管
+
+* [fir.im](https://www.betaqr.com.cn/)
+
+* [蒲公英 - 免费的应用托管平台|App应用众测分发](https://www.pgyer.com/)
+
 #### Github 相关
 
 * [Github Android 国内个人技术排行榜](https://github.com/getActivity/AndroidGithubBoss)
@@ -338,11 +366,15 @@
 
 * 英文大小写转换
 
-    * [英文字母大小写转换 - 蛙蛙工具](https://www.iamwawa.cn/daxiaoxie.html)
+    * [CrateX.app - 大小写转换](https://cratex.app/zh-CN/case-converter)
+
+    * [蛙蛙工具 - 英文字母大小写转换](https://www.iamwawa.cn/daxiaoxie.html)
 
     * [试试吧 - 英文字母大小写转换](https://try8.cn/tool/unit/letter)
 
 * Json / Xml 格式化
+
+    * [CrateX.app - JSON 格式化](https://cratex.app/zh-CN/json-formatter)
 
     * [Json.cn - JSON 在线解析及格式化验证](https://www.json.cn)
 
@@ -378,6 +410,8 @@
 
 * Java / Kotlin 在线运行
 
+    * [JSON 中文网 - 在线运行 Java](https://www.json.cn/run/java/)
+
     * [菜鸟工具 - Java 在线运行工具](https://c.runoob.com/compile/10/)
 
     * [BEJSON - Java 在线运行](https://www.bejson.com/runcode/java/)
@@ -401,6 +435,8 @@
     * [二维码生成器](https://cn.online-qrcode-generator.com/)
 
 * URL 编码/解码
+
+    * [CrateX.app - URL 编码器](https://cratex.app/zh-CN/url-encoder)
 
     * [试试吧 - URL编码/解码](https://try8.cn/tool/code/url)
 
@@ -454,6 +490,8 @@
 
 * Base64 编码/解码
 
+    * [CrateX.app - Base64 编码器](https://cratex.app/zh-CN/base64-encoder)
+
     * [Base64.us - Base64 在线编码解码](https://base64.us/)
 
     * [查询网 - 在线base64解码/编码工具](https://tool.ip138.com/base64/)
@@ -476,7 +514,7 @@
 
     * [试试吧 - AES 加密/解密](https://try8.cn/tool/cipher/aes)
 
-* 正则表达式在线测试
+* 正则表达式测试
 
     * [菜鸟工具 - 正则表达式在线测试](https://c.runoob.com/front-end/854/)
 
@@ -490,7 +528,9 @@
 
     * [RegExr - 学习、构建 和 测试 正则表达式 Test RegEx](https://regexr-cn.com/)
 
-* ASCII 在线转换工具
+* ASCII 转换
+
+    * [CrateX.app - ASCII 转换器](https://cratex.app/zh-CN/ascii-converter)
 
     * [OSCHINA - Native/ASCII在线编码转换](https://tool.oschina.net/encode?type=3)
 
@@ -504,7 +544,21 @@
 
     * [在线懒人工具 - ascii 在线转换器](http://m.ab173.com/gongju/convert/ascii.php)
 
-* 文件 md5 在线计算
+* 进制转换
+
+    * [CrateX.app - 进制转换](https://cratex.app/zh-CN/base-converter)
+
+    * [在线工具 - 进制转换](https://tool.lu/hexconvert/)
+
+    * [OSCHINA.NET社区 - 在线进制转换](https://tool.oschina.net/hexconvert/)
+
+    * [蛙蛙工具 - 在线进制转换器](https://www.iamwawa.cn/jinzhi.html)
+
+    * [菜鸟工具 - 在线进制转换器](https://www.jyshare.com/front-end/58/)
+
+    * [码工具 - 在线进制转换](https://www.matools.com/hex)
+
+* 文件 md5 计算
 
     * [文件md5在线计算 - 在线工具](http://www.metools.info/other/o21.html)
 
@@ -512,13 +566,21 @@
 
     * [MD5文件在线计算 - StrErr.com](https://www.strerr.com/cn/md5_file.html)
 
-* 其他工具
+* 文本字数统计
 
-    * [html 转 md 工具](https://github.com/helloworld-Co/html2md)
+    * [CrateX.app - 文本计数器](https://cratex.app/zh-CN/text-counter)
 
     * [txttool - 在线字数统计](http://www.txttool.com/t/?id=MzI0)
 
+* 文本差异比较
+
+    * [CrateX.app - 文本对比工具](https://cratex.app/zh-CN/text-diff)
+
     * [千博网络 - 在线文本比较工具](https://www.qianbo.com.cn/Tool/Text-Difference/)
+
+* 其他工具
+
+    * [html 转 md 工具](https://github.com/helloworld-Co/html2md)
 
     * [试试吧 - 时间戳转日期工具](https://try8.cn/tool/time/convert)
 
@@ -560,7 +622,7 @@
 
 * [Hereitis](https://www.hereitis.cn/software/allSoft)
 
-* [Digit77.com](https://www.digit77.com/macapps/)
+* [Digit77.com](https://www.digit77.com/)
 
 * [元婴 MAC 软件站](https://maczz.net/)
 
@@ -694,6 +756,8 @@
 
     * [PngQuant](https://pngquant.org/)
 
+    * [CrateX.app - 图片照片压缩器](https://cratex.app/zh-CN/image-compressor)
+
     * [改图鸭 - 在线快速压缩图片](https://www.gaituya.com/yasuo/)
 
     * [TinyWow - 图片压缩](https://tinywow.com/image/compress)
@@ -744,6 +808,12 @@
 
     * [改图鸭 - 图片旋转](https://www.gaituya.com/xuanzhuan/)
 
+* 对图片进行裁剪
+
+    * [CrateX.app - 图片照片裁剪器](https://cratex.app/zh-CN/image-cropper)
+
+    * [改图鸭 - 图片裁剪](https://www.gaituya.com/caijian/)
+
 * 给图片添加边框
 
     * [TinyWow - 为图片添加边框](https://tinywow.com/image/border)
@@ -767,8 +837,6 @@
     * [改图鸭 - 照片变漫画](https://www.gaituya.com/manhua/)
 
     * [改图鸭 - 图片加水印](https://www.gaituya.com/jiashuiyin/)
-
-    * [改图鸭 - 图片裁剪](https://www.gaituya.com/caijian/)
 
     * [改图鸭 - 图片转 GIF，在线 GIF 动图制作工具](https://www.gaituya.com/gif/)
 
